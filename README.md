@@ -7,6 +7,7 @@ Arthur: nidhigaday
 
 References
 Websites:
+<<<<<<< HEAD
 	http://www.w3schools.com/
 	https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 	http://getbootstrap.com/css/#type-lists
@@ -16,3 +17,12 @@ Websites:
 	http://jigsaw.w3.org/css-validator/validator
 
 
+=======
+> http://www.w3schools.com/
+> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+> http://getbootstrap.com/css/#type-lists
+> http://css-tricks.com/
+> https://www.google.com/fonts
+> http://validator.w3.org/check
+> http://jigsaw.w3.org/css-validator/validator
+>>>>>>> origin/master
