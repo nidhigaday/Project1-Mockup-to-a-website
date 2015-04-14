@@ -1,44 +1,44 @@
-.container {
-	font-family: Kalimati, Verdana, sans-serif;
-	line-height: 2.3;
-        color: #666;
-	width: 1024px;
-	margin-top: 20px;
+.content-section {
+      font-family: Kalimati, Verdana, sans-serif;
+      line-height: 2.3;
+      color: #666;
+      width: 1024px;
+      margin-top: 20px;
 }
 
-.row {
-	width: 936px;
-	margin: 0 31px 0 27px;
+.divisions {
+      width: 936px;
+      margin: 0 31px 0 27px;
 }
 
-.col-md-8 {
-	padding: 0 31px 0 32px;
-	width: 529px;
+.right-section {
+      padding: 0 31px 0 32px;
+      width: 529px;
 }
 
-.col-md-4 {
-	margin-top: 25px;
-    	width: 375px;
-    	padding: 0;
+.left-section {
+      margin-top: 25px;
+      width: 375px;
+      padding: 0;
 }
 
 h2 {
-   	color: #f07c17;
-   	font-size: 25px;
-   	padding-bottom: 17px;
-   	font-weight: 700;
+      color: #f07c17;
+      font-size: 25px;
+      padding-bottom: 17px;
+      font-weight: 700;
 }
 
 h1 {
-	font-size: 50px;
+      font-size: 50px;
 }
 
-.list {
-	padding-left: 34px 0 0 31px;
-	height: 223px;
-	border: 1px solid #ccc;
+.description {
+      padding-left: 34px 0 0 31px;
+      height: 223px;
+      border: 1px solid #ccc;
 }
 
 .image {
-    	margin-bottom: 25px;
+      margin-bottom: 25px;
 }
