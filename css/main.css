@@ -34,7 +34,7 @@ h1 {
 }
 
 .description {
-      padding-left: 34px 0 0 31px;
+      padding: 34px 0 0 31px;
       height: 223px;
       border: 1px solid #ccc;
 }
